@@ -12,12 +12,12 @@ let state;  //undefined value yet
 let city = null //empty 
 
 
-// number => 2 to power 53
-// bigint
-// string => ""
-// boolean => true/false
-// null => standalone/undefined value
-// symbol => unique
+ number => 2 to power 53
+ bigint
+ string => ""
+ boolean => true/false
+ null => standalone/undefined value
+ symbol => unique
 
 
 //object 
