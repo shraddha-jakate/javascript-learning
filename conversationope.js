@@ -10,7 +10,7 @@ console.lpg(valueInNumber);
 
 "33" => 33
  "33abc" => NaN
- true => 1; fallse => 
+ true => 1; false =>
 
 
 let isLoggedIn = 1
